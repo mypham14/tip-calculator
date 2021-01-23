@@ -1,1 +1,1 @@
-# tip-calculator
+# Day 2: Tip Calculator
